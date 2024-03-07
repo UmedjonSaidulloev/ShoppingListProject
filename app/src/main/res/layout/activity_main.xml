@@ -22,14 +22,13 @@
         android:id="@+id/button_add_shop_item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="336dp"
+        android:layout_marginBottom="28dp"
         android:clickable="true"
         android:contentDescription="@string/add_new_shop_item"
         android:focusable="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:srcCompat="@drawable/ic_add"
-        android:layout_marginRight="16dp" />
+        app:srcCompat="@drawable/ic_add" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
